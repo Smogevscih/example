@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graf"
+    app:startDestination="@id/favoriteFragment">
+
+    <fragment
+        android:id="@+id/verbFragment"
+        android:name="com.smic.conjugadorit.fragment.VerbFragment"
+        tools:layout="@layout/fragment_verb" />
+    <fragment
+        android:id="@+id/favoriteFragment"
+        android:name="com.smic.conjugadorit.fragment.FavoriteFragment"
+
+        tools:layout="@layout/fragment_favorite" />
+    <fragment
+        android:id="@+id/verbsFragment"
+        android:name="com.smic.conjugadorit.fragment.VerbsFragment"
+
+        tools:layout="@layout/fragment_verbs" />
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.smic.conjugadorit.fragment.SettingsFragment"
+
+        tools:layout="@layout/fragment_settings" />
+</navigation>

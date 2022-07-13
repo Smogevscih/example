@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Italian verbs. Conjugador</string>
+    <string name="find_verb">Find the verb...</string>
+    <string name="history_verbs">Search history</string>
+    <string name="popular_verbs">The popular verbs</string>
+    <string name="pronoun">Personal pronouns</string>
+    <string name="verb_tenses">Verb tenses</string>
+    <string name="title">Conjugador</string>
+</resources>

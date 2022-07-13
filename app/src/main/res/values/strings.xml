@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Italian verbs. Conjugador</string>
+    <string name="title">Conjugador</string>
+    <string name="find_verb">Find the verb...</string>
+
+    <string name="history_verbs">Search history</string>
+    <string name="popular_verbs">The popular verbs</string>
+
+    <string-array name="popular_verbs">
+        <item>essere</item>
+        <item>andare</item>
+        <item>avere </item>
+        <item>fare</item>
+        <item>dare</item>
+        <item>potere </item>
+        <item>volere</item>
+        <item>prudere</item>
+        <item>stare</item>
+        <item>vedere</item>
+        <item>lavare</item>
+        <item>preferire</item>
+        <item>venire</item>
+        <item>dovere</item>
+        <item>comprare</item>
+        <item>pagare</item>
+        <item>aiutare</item>
+        <item>viaggiare</item>
+        <item>bere</item>
+    </string-array>
+
+
+    <string name="io" translatable="false">io</string>
+    <string name="tu" translatable="false">tu</string>
+    <string name="lui" translatable="false">lui/lei</string>
+    <string name="loro" translatable="false">loro</string>
+    <string name="noi" translatable="false">noi</string>
+    <string name="voi" translatable="false">voi</string>
+    <string name="pronoun">Personal pronouns</string>
+    <string name="verb_tenses">Verb tenses</string>
+    <string name="setings" translatable="false">setings</string>
+
+
+</resources>
